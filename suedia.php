@@ -12,12 +12,12 @@
     <link href="css/stil.css" rel="stylesheet">
     <title>Scandinavia</title>
     <link href="stiluri.css" rel="stylesheet">
-    <script defer src="scripturi/sue-script.js"></script>
+    <script defer src="sue-script.js"></script>
 </head>
 <body style="background-color: rgb(88,88,88)">
     
     <?php
-        include "module/modul-navigare.php";
+        include "modul-navigare.php";
     ?>
 
     <div class="py-1">
