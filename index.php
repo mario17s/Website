@@ -54,7 +54,7 @@
 <body style="background-color: rgb(88,88,88)">
     
     <?php
-        include "module/modul-navigare.php";
+        include "modul-navigare.php";
     ?>
     
     <div class="bg-dark py-1">
