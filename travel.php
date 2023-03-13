@@ -1,6 +1,6 @@
 <?php
     $pagina = "travel";
-    include_once "module/modul-functii.php";
+    include_once "modul-functii.php";
 
     if(isset($_POST['fisier_de_sters']))
     {
@@ -48,7 +48,7 @@
 <body style="background-color: rgb(88,88,88)">
     
     <?php
-        include "module/modul-navigare.php";
+        include "modul-navigare.php";
     ?>
 
     <div class="py-1">
